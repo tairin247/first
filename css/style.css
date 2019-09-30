@@ -1,0 +1,24 @@
+body{
+     font-family: 'Lora', serif;
+}
+h1{
+	background: cadetblue;
+	text-align: center;
+	color: rgb(9, 16, 16);
+	font-size: 45px;
+}
+img{
+	width: 15%;
+	float: right;
+	border-radius: 65%;
+}
+h2{
+	display: block;
+	color: rgb(9, 16, 16);
+	background: cadetblue;
+	font-size: 30px;
+}
+table,th,td{
+	 border: 1px solid black;
+  border-collapse: collapse;
+}
